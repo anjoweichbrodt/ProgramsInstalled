@@ -1,2 +1,2 @@
 # ProgramsInstalled
-Retreives programs installed Windows computer. Python program based on a Powershell command.
+Retreives programs installed on Windows computers. Python program based on a Powershell command.
